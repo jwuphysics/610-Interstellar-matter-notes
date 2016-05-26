@@ -1,0 +1,8 @@
+salt_proposal/*
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.log
+*.out
+*.synctex.gz
